@@ -1,5 +1,5 @@
 # vikoTvarkarastisCrawler
-Viko tvarkaraščio crawleris skirtas ištraukti dėstytojų informaciją.
+Viko tvarkaraščio crawleris skirtas ištraukti dėstytojų informaciją iš viko tvarkaraščio.
 
 
 ```js
