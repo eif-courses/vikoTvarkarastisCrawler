@@ -1,6 +1,8 @@
 # vikoTvarkarastisCrawler
 Viko tvarkaraščio crawleris skirtas ištraukti dėstytojų informaciją.
 
+
+```js
 const rp = require('request-promise');
 const url = 'https://vikoeif.edupage.org/timetable/';
 
@@ -21,3 +23,4 @@ rp(url)
     .catch(function(err){
         //handle error
     });
+```
